@@ -20,6 +20,7 @@ input[type=number] {
   font-size: 10em;
   text-align: center;
   font-family: 'Poiret One', cursive;
+  outline: none;
 }
 
 #fahrenheit {
