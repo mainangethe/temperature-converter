@@ -31,3 +31,9 @@ input[type=number] {
 ::-webkit-input-placeholder { color: #222; font-weight: bold; }
 ::-moz-placeholder { color: #222; font-weight: bold; }
 ::-ms-input-placeholder { color: #222; font-weight: bold; }
+
+@media screen and (max-width:800px){
+  input[type=number] {
+    font-size: 5em;
+  }
+}
